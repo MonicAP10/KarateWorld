@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KarateWorld</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Constraseña">Contraseña</string>
+    <string name="button">Iniciar Sesion</string>
+    <string name="btnRegresar">Devolver</string>
+</resources>
